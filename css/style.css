@@ -1,0 +1,50 @@
+
+.border {
+	width: 50%;
+
+}
+.plft{
+	padding-left: 45px;
+}
+.prgt{
+	padding-right: 45px;
+}
+.color{
+	color: #3B325F;
+	font-weight: 500;
+}
+.color1 {
+	color:#B6B3C6;
+}
+address {
+	font-weight: 500;
+	color:  #3B325F;
+}
+	table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+  margin: 0 auto;
+}
+
+td, th {
+  border: none;
+  text-align: left;
+  padding: 20px;
+}
+	@media (min-width: 350px) and (max-width: 1000px) {
+		
+.plft{
+	padding-left: 20px;
+}
+.prgt{
+	padding-right: 20px;
+}
+.img_res {
+	width: 70% !important;
+}
+address {
+	font-size: 10px;
+}
+
+		}
