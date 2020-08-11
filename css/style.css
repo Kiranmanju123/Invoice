@@ -28,7 +28,7 @@ address {
 }
 
 td, th {
-  border: none;
+  border: 0 !important;
   text-align: left;
   padding: 20px;
 }
