@@ -4,10 +4,10 @@
 
 }
 .plft{
-	padding-left: 45px;
+	padding-left: 55px !important;
 }
 .prgt{
-	padding-right: 45px;
+	padding-right: 55px !important;
 }
 .color{
 	color: #3B325F;
@@ -32,19 +32,19 @@ td, th {
   text-align: left;
   padding: 20px;
 }
-	@media (min-width: 350px) and (max-width: 1000px) {
+	@media (min-width: 350px) and (max-width: 1170px) {
 		
 .plft{
-	padding-left: 20px;
+	padding-left: 30px !important;
 }
 .prgt{
-	padding-right: 20px;
+	padding-right: 50px !important;
 }
 .img_res {
 	width: 70% !important;
 }
 /*address {
-	font-size: 10px;
-}*/
-
+	font-size: 14px;
+}
+*/
 		}
