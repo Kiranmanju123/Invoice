@@ -1,8 +1,4 @@
 
-.border {
-	width: 50%;
-
-}
 .plft{
 	padding-left: 55px !important;
 }
@@ -43,8 +39,12 @@ td, th {
 .img_res {
 	width: 70% !important;
 }
-/*address {
-	font-size: 14px;
+td, th {
+  border: 0 !important;
+ 
 }
-*/
+address {
+	font-size: 10px;
+}
+
 		}
